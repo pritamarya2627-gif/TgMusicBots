@@ -96,7 +96,7 @@ async def greet_group(_, member: ChatMemberUpdated):
 ● ᴜsᴇʀ ɪᴅ ➥  {user.id}
 ● ɢʀᴏᴜᴘ ➥ {member.chat.title}
 
-💝 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ @SunoBots 🎶
+💝 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ @TgMusicBots 🎶
 ♡゙
 ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▰""",  
             reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(f"⦿ ᴋɪᴅɴᴀᴘ ᴍᴇ ⦿", url=f"https://t.me/Sunomusicrebot?startgroup=true")]])
